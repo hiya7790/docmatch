@@ -1,4 +1,4 @@
-# docmatch
+# DOCMATCH
 A full-stack, Object-Oriented web application implemented in Python and Streamlit to extract text from documents (handwritten and printed) and compute their semantic and lexical similarity using multiple state-of-the-art metrics.
 
 ## Features
